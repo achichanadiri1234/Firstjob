@@ -1,0 +1,39 @@
+.logo {
+	width: 150px; 
+	height: 75px;
+ margin-top: 30px;
+}
+ body{
+ 	list-style-type: none; 
+ 	margin-left: 30px;
+ }
+
+  .home{
+  	color: red; 
+  }
+  .news{
+  	color: blue;
+  }
+  .contacts{
+  	color: blue;
+
+  }
+  li{
+  	margin-bottom: 10px;
+  }
+  .fb ,.yt{ 	
+   width: 20px; 
+   height: 30px;
+   margin-top: 10px;
+   
+   }
+   .banner{
+   	display: block;
+   }
+    .fb {
+    border-right: 2px solid blue;
+    padding-right: 15px;
+  }
+  .yt {
+    padding-left: 15px;
+  }
